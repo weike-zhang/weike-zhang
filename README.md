@@ -24,12 +24,12 @@
 </td>
 <td valign="top" width="50%">
 
-#### 💻 Contributing
+#### 💻 Open Source Experience
 
-- ✨ **[langgenius/dify](https://github.com/langgenius/dify/pull/40856)** — merged: inject login / forgot-password payloads
-- 🏅 **[dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui/pull/248)** — merged: iOS home-screen icon; empty-state preview add button
-- 🌟 **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1012)** — merged: listed dsh-svg-motion
-- 🦌 **[apache/airflow](https://github.com/apache/airflow/pull/71656)** — open: Italian translation skill guidelines
+- ✨ **langgenius** Open Source Contributor — [dify](https://github.com/langgenius/dify)
+- 🏅 **dsh-web-ui** Open Source Contributor — [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
+- 🌟 **awesome-dsh-plugin** Open Source Contributor — [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+- 🦌 **Apache Airflow** Open Source Contributor — [apache/airflow](https://github.com/apache/airflow)
 
 </td>
 </tr>
